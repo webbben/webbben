@@ -1,4 +1,3 @@
-### Hi there 👋
 I'm Ben, a software engineer based in Tokyo. I primarily work on web development projects, but I'm also always looking for ways to learn more and explore different areas of software engineering and programming.
 
 Here's some info on what I've been up to lately in the coding world...
