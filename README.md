@@ -3,8 +3,8 @@ I'm Ben, a software engineer based in Tokyo. I primarily work on web development
 Here's some info on what I've been up to lately in the coding world...
 
 - 🔭 I’m currently working on ...
+  * [Distributed file sharing system](https://github.com/webbben/p2p-file-share) - experimenting with distributed systems to make a file sharing system to sync files on computers in your local area network.
   * [Code Duel](https://github.com/webbben/code-duel) - A "competitive coding" platform of sorts. Basically, a site where you can face off with friends over leetcode-style coding challenges, under a time constraint.
-    * In "beta", available here: https://code-duel-mu.vercel.app/
   * Trending data for software engineering jobs - I've got a script that is scraping job data from LinkedIn, and while that is gathering data I'm working on a client app to visualize the data trends.
 - 🌱 I’m currently learning ...
   * Golang! I've been exploring the world of backend development a bit deeper by doing new experimental projects in Go.
