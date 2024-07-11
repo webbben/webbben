@@ -1,13 +1,9 @@
-I'm Ben, a software engineer based in Tokyo. I primarily work on web development projects, but I'm also always looking for ways to learn more and explore different areas of software engineering and programming.
-
+I'm Ben, a software engineer based in Tokyo.
 Here's some info on what I've been up to lately in the coding world...
 
 - 🔭 I’m currently working on ...
   * [Leetcode75](http://github.com/webbben/leetcode75) - I'm challenging myself to solve all the problems in the Leetcode75 problem set. Along the way, I'm documenting my solutions, thought process, things I've learned, and more.
   * [AI Email Assistant](http://github.com/webbben/mail-assistant) - I'm making an AI assistant that helps me check my inbox, summarize emails, and draft responses, all using custom personalities. Powered by llama3 LLM.
-  * [Code Duel](https://github.com/webbben/code-duel) - A "competitive coding" platform of sorts. Basically, a site where you can face off with friends over leetcode-style coding challenges, under a time constraint.
-- 🌱 I’m currently learning ...
-  * Golang! I've been exploring the world of backend development a bit deeper by doing new experimental projects in Go.
 - 📫 How to reach me: ...
   * In general you can email me at ben.webb340@gmail.com, or LinkedIn for more career-related stuff.
 
